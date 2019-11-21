@@ -60,4 +60,5 @@ def diningPhilosophers():
     for thread in threads:
         thread.join()
 
+
 diningPhilosophers() 
